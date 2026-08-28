@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "camping:campfire_wood_off"
+    },
+    "title": "Eating Outdoors",
+    "description": "Create a Wooden Campfire"
+  },
+  "parent": "camping:camping_inv",
+  "criteria": {
+    "campfire_got": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "camping:campfire_wood_off"
+          }
+        ]
+      }
+    }
+  }
+}

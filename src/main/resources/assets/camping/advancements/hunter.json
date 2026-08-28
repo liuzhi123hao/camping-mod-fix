@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "camping:venison_raw"
+    },
+    "title": "Hunter",
+    "description": "Trap an animal in a Bear Trap",
+    "frame": "challenge"
+  },
+  "parent": "camping:trap",
+  "criteria": {
+    "animalTrapped": {
+      "trigger": "camping:entity_trapped",
+      "conditions": {
+        "isAnimal": true
+      }
+    }
+  }
+}

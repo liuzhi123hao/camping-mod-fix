@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: forge-1.12.2-14.23.5.2864-mdk
+Implementation-Version: 2.4.5
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2026-08-28T14:30:18+0800
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+

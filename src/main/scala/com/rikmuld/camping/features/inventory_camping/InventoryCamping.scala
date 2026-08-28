@@ -106,7 +106,7 @@ class InventoryCamping(player: EntityPlayer, container: Option[ContainerCamping]
     // ★★★ 从 PERSISTED_NBT_TAG 读取 ★★★
     val persist = player.getEntityData.getCompoundTag(EntityPlayer.PERSISTED_NBT_TAG)
     val tag = persist.getCompoundTag(NBTInfo.INV_CAMPING)
-    
+
     for (i <- 0 until 4) {
       val key = "slot_" + i
       if (tag.hasKey(key)) {

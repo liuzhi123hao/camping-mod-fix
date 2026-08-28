@@ -17,7 +17,7 @@ object CampingMod {
     "The Camping Mod 2"
 
   final val MOD_VERSION =
-    "2.4.3"
+    "2.4.5"
 
   final val MOD_LANGUAGE =
     "scala"

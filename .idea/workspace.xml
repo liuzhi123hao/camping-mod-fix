@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40ef3679-1e59-4bb2-b461-ecc0f293760f" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.6.4/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/runClient.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/runServer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/createMcpToSrg/output.tsrg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/downloadMCMeta/version.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extractSrg/output.srg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reobfJar/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/advancements/camper_full.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/advancements/campfire_got.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/advancements/campfire_mastery.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/advancements/camping_inv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/advancements/explorer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/advancements/fur_armor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/advancements/hunter.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/advancements/knife_got.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/advancements/mad_camper.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/advancements/protector.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/advancements/roast.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/advancements/tent_luxery.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/advancements/tent_sleep.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/advancements/trap.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/blockstates/campfire_cook.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/blockstates/campfire_wood_off.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/blockstates/campfire_wood_on.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/blockstates/hemp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/blockstates/lantern.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/blockstates/light.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/blockstates/logseat.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/blockstates/sleeping_bag.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/blockstates/tent.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/blockstates/tent_bounds.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/blockstates/trap.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/lang/de_DE.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/lang/en_US.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/lang/nl_NL.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/lang/pt_PT.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/lang/ru_RU.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/lang/zh_CN.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/lang/zh_TW.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/block/campfire.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/block/campfire_cook.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/block/campfire_wood.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/block/campfire_wood_old.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/block/hemp_grown_big_bottom.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/block/hemp_grown_big_top.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/block/hemp_grown_small.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/block/hemp_infant_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/block/hemp_infant_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/block/hemp_infant_3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/block/lantern_base.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/block/lantern_hang_base.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/block/lantern_hang_off.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/block/lantern_hang_on.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/block/lantern_off.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/block/lantern_on.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/block/light.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/block/logseat_left.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/block/logseat_long.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/block/logseat_right.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/block/logseat_small.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/block/none.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/block/sleeping_bag.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/block/sleeping_bag_head.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/block/sleeping_bag_tail.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/block/tent.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/block/trap_closed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/block/trap_open.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/armor_fur_boots.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/armor_fur_chest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/armor_fur_helm.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/armor_fur_leg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/bag_backpack.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/bag_pouch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/bag_rucksack.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/block_random.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/campfire.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/campfire_cook.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/campfire_wood_off.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/hemp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/kit_grill.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/kit_kit.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/kit_pan.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/kit_spit.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/kit_useless.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/knife.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/lantern_off.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/lantern_on.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/light.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/logseat.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/marshmallow_stick_cooked.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/parts_animal_fur_brown.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/parts_animal_fur_white.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/parts_ash.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/parts_canvas.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/parts_marshmallow_stick_raw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/parts_marshmallows.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/parts_pan.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/parts_peg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/parts_stick_iron.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/sleeping_bag.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/tent.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/tentBounds.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/tent_black.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/tent_blue.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/tent_blue_light.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/tent_brown.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/tent_cyan.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/tent_gray_dark.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/tent_gray_light.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/tent_green.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/tent_lime.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/tent_magenta.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/tent_orange.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/tent_pink.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/tent_purple.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/tent_red.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/tent_white.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/tent_yellow.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/trap.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/venison_cooked.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/models/item/venison_raw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/armor_fur_boots.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/armor_fur_chest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/armor_fur_helm.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/armor_fur_leg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/bag_backpack.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/bag_pouch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/bag_rucksack.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/campfire_cook.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/campfire_wood.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/kit_kit.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/knife.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/lantern_lantern_off.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/lantern_lantern_on.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/lantern_lantern_on_shapeless.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/logseat.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/parts_canvas.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/parts_marshmallow_stick_raw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/parts_marshmallows.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/parts_pan.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/parts_peg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/parts_stick_iron.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/sleeping_bag_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/sleeping_bag_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/sleeping_bag_3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/tent.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/tent_black.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/tent_blue.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/tent_blue_light.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/tent_brown.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/tent_cyan.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/tent_gray_dark.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/tent_gray_light.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/tent_green.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/tent_lime.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/tent_magenta.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/tent_orange.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/tent_pink.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/tent_purple.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/tent_red.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/tent_white.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/tent_yellow.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/recipes/trap.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/sounds.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/sounds/bear-1.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/sounds/bear-2.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/sounds/bear-3.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/sounds/bear-4.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/sounds/bear-attack.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/sounds/fox-attack.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/sounds/fox.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/blocks/grass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/blocks/lantern_off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/blocks/lantern_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/blocks/logseat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/blocks/plant_hemp_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/blocks/plant_hemp_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/blocks/plant_hemp_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/blocks/plant_hemp_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/blocks/plant_hemp_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/blocks/plant_hemp_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/blocks/sleeping_bag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/blocks/sleeping_bag_head.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/blocks/sleeping_bag_tail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/gui/campfire_cook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/gui/campinv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/gui/kit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/gui/map_blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/gui/map_red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/gui/simple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/gui/tent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/gui/tent_contend1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/gui/tent_contend2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/gui/trap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/gui/utils.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/items/armor_fur_boots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/items/armor_fur_chest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/items/armor_fur_helm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/items/armor_fur_leg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/items/ash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/items/backpack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/items/canvas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/items/fur_brown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/items/fur_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/items/hemp_item.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/items/kit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/items/knife.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/items/marshmallow_stick_cooked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/items/marshmallow_stick_raw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/items/marshmallows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/items/pan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/items/peg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/items/pouch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/items/rucksack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/items/stick_iron.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/items/venison_cooked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/items/venison_raw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/models/arctic_fox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/models/armor_fur_legs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/models/armor_fur_main.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/models/bear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/models/bear_trap_open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/models/camper_female.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/models/camper_male.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/models/campfire_deco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/models/grill.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/models/pan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/models/spit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/models/tent_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/models/with_base.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/sprite/fx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/assets/camping/textures/sprite/potion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sourcesSets/main/mcmod.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/scala/compilerAnalysis/compileScala.analysis" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/scala/compilerAnalysis/compileScala.analysis.relations" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/scala/compilerAnalysis/compileScala.mapping" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/config/camping.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/config/forge.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/config/forgeChunkLoading.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/config/splash.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2026-08-28-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/debug-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/options.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/DIM-1/data/capabilities.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/DIM-1/data/villages_nether.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/DIM-1/forcedchunks.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/DIM1/data/capabilities.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/DIM1/data/villages_end.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/DIM1/forcedchunks.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/advancements/38ee4029-e397-3902-8d79-d6c4d51a8fef.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/advancements/d1a76729-1ccb-3de3-b2b3-c7efa54f7c6f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/data/capabilities.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/data/villages.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/forcedchunks.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/level.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/level.dat_old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/38ee4029-e397-3902-8d79-d6c4d51a8fef.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/playerdata/d1a76729-1ccb-3de3-b2b3-c7efa54f7c6f.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/region/r.-1.-1.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/region/r.-1.0.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/region/r.0.-1.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/region/r.0.0.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/session.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/stats/38ee4029-e397-3902-8d79-d6c4d51a8fef.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/新的世界/stats/d1a76729-1ccb-3de3-b2b3-c7efa54f7c6f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/usercache.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/usernamecache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mcmod.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mcmod.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/pack.mcmeta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/rikmuld/camping/CampingMod.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/rikmuld/camping/CampingMod.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/rikmuld/camping/features/inventory_camping/EventsServer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/rikmuld/camping/features/inventory_camping/EventsServer.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/rikmuld/camping/features/inventory_camping/InventoryCamping.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/rikmuld/camping/features/inventory_camping/InventoryCamping.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="forge-1.12.2-14.23.5.2864-mdk" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="forge-1.12.2-14.23.5.2864-mdk" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="forge-1.12.2-14.23.5.2864-mdk" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="forge-1.12.2-14.23.5.2864-mdk" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="fg_runs" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;liuzhi123hao&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/liuzhi123hao/camping-mod-fix.git&quot;,
+    &quot;accountId&quot;: &quot;c883cd6e-c24d-4ed5-880f-2d0a36ab1262&quot;
+  }
+}</component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3IWUDeF7O2Paijjg9E5PeyoMuxV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.forge-1.12.2-14.23.5.2864-mdk [build].executor": "Run",
+    "Gradle.forge-1.12.2-14.23.5.2864-mdk [genIntellijRuns].executor": "Run",
+    "Gradle.forge-1.12.2-14.23.5.2864-mdk [runClient].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/liuzhihao/forge-1.12.2-14.23.5.2864-mdk",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RunManager" selected="应用程序.runClient" />
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="40ef3679-1e59-4bb2-b461-ecc0f293760f" name="更改" comment="" />
+      <created>1787879699629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787879699629</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.lang" />
+    <option featureType="dependencySupport" implementationName="java:net.minecraftforge:forge" />
+    <option featureType="dependencySupport" implementationName="executable:podman" />
+  </component>
+</project>

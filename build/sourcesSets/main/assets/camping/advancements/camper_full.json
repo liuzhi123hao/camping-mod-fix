@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "camping:bag",
+      "data": 1
+    },
+    "title": "Full Fledged Camper",
+    "description": "Fill up all tool slots of the Camping Inventory",
+    "frame": "challenge"
+  },
+  "parent": "camping:fur_armor",
+  "criteria": {
+    "camping_full": {
+      "trigger": "camping:inventory_changed",
+      "conditions": {
+        "full": true
+      }
+    }
+  }
+}

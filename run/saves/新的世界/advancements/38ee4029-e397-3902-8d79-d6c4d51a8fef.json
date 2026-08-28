@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "beaches": "2026-08-28 09:49:03 +0800",
+      "roofed_forest": "2026-08-28 09:48:53 +0800"
+    },
+    "done": false
+  }
+}

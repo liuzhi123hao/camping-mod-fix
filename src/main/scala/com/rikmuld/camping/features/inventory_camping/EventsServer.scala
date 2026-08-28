@@ -22,9 +22,14 @@ object EventsServer {
 
   @SubscribeEvent
   def onPlayerDeath(event: PlayerDropsEvent) {
+    val player = event.getEntityPlayer
     if (!event.getEntity.world.getGameRules.getBoolean("keepInventory")){
       InventoryCamping.dropItems(event.getEntityPlayer)
       event.getEntity.getEntityData.removeTag(NBTInfo.INV_CAMPING)
+      // ★★★ 新增：清永久存储区 ★★★
+      val store = player.getEntityData.getCompoundTag(EntityPlayer.PERSISTED_NBT_TAG)
+      store.removeTag(NBTInfo.INV_CAMPING)
+      player.getEntityData.setTag(EntityPlayer.PERSISTED_NBT_TAG, store)
     } else {
       val tag = event.getEntity.getEntityData.getCompoundTag(NBTInfo.INV_CAMPING)
       val store = event.getEntity.getEntityData.getCompoundTag(EntityPlayer.PERSISTED_NBT_TAG)
@@ -55,7 +60,6 @@ object EventsServer {
     val store = event.player.getEntityData.getCompoundTag(EntityPlayer.PERSISTED_NBT_TAG)
     val tag = store.getCompoundTag(NBTInfo.INV_CAMPING)
 
-    event.player.getEntityData.setTag(NBTInfo.INV_CAMPING, tag)
     if (!tag.hasNoTags) {
       event.player.getEntityData.setTag(NBTInfo.INV_CAMPING, tag)
     }

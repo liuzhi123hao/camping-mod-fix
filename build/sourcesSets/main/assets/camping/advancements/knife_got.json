@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "camping:knife"
+    },
+    "title": "Multi-Purpose",
+    "description": "Craft a Swiss Knife"
+  },
+  "parent": "camping:camping_inv",
+  "criteria": {
+    "have_knife": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "camping:knife"
+          }
+        ]
+      }
+    }
+  }
+}
